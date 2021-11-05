@@ -1,0 +1,12 @@
+
+Por puerto serie o por BT.
+
+-'a''A': avanzar
+-'s''S': retroceder
+-'d''D': girar derecha
+-'i''I': girar izquierda
+-'l''L': levantar
+-'b''B': bajar
+-'r''R': reverencia
+-'p''P': aullar
+-'h''H': saludar 
